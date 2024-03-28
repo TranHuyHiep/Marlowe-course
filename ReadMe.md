@@ -4,7 +4,7 @@ This repository contains lessons for using Marlowe via REST and at the command l
 
 ## Contents 
 
-- [Setup](#setup): two alternatives
+- [Setup](#setup): two alternatives 
   - Use [demeter.run](https://demeter.run/) extension for Marlowe Runtime: [using demeter.run's Marlowe Runtime extension (video) (2:32)](https://youtu.be/XnZ8gCjpl1E)
   - [Deploy Marlowe Runtime locally with docker](docker.md) and [launching Marlowe Runtime using Docker (video) (9:48)](https://youtu.be/45F5ld8NNHM).
 - [Lessons](#lessons)
